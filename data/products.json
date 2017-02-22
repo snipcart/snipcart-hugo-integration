@@ -4,12 +4,12 @@
     "price": 34.87,
     "image": "/images/dictionary.jpg",
     "description": "nIvbogh tlhIngan dictionary qaStaHvIS veng SuvwI'",
-    "url": "http://snipcart-hugo.netlify.com/data/products.json"
+    "url": "http://snipcart-hugo.netlify.com"
 }, {
     "id": "2",
     "name": "Captain Kirk Phaser",
     "description": "The Original Series Phaser comprises a small, hand-held Type I Phaser, which slots into a larger Type II Phaser body with a removable pistol-grip.",
     "price": 145.98,
     "image": "/images/phaser.png",
-    "url": "http://snipcart-hugo.netlify.com/data/products.json"
+    "url": "http://snipcart-hugo.netlify.com"
 }]
