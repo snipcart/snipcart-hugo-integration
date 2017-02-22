@@ -1,0 +1,15 @@
+[{
+    "id": "1",
+    "name": "Klingon dictionary",
+    "price": 34.87,
+    "image": "/images/dictionary.jpg",
+    "description": "nIvbogh tlhIngan dictionary qaStaHvIS veng SuvwI'",
+    "url": "http://localhost:1313/data/products.json"
+}, {
+    "id": "2",
+    "name": "Captain Kirk Phaser",
+    "description": "The Original Series Phaser comprises a small, hand-held Type I Phaser, which slots into a larger Type II Phaser body with a removable pistol-grip.",
+    "price": 145.98,
+    "image": "/images/phaser.png",
+    "url": "http://localhost:1313/data/products.json"
+}]
